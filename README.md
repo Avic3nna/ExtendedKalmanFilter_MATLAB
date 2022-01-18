@@ -1,2 +1,4 @@
-# ExtendedKalmanFilter_MATLAB
-Develop the Extended Kalman Filter for the Advanced Robotics course @UPM Madrid 2020
+# Advanced Robotics @UPM Madrid 2020-2021
+Developed the Extended Kalman Filter from scratch in Matlab
+
+![alt text](outsideconverged.png)
